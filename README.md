@@ -19,7 +19,7 @@ Each project is self-contained in its own folder with a Jupyter Notebook, Relate
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python 3.x  
+- **Languages:** Python
 - **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
 - **Tools:** Jupyter Notebook, VS Code 
 
@@ -33,3 +33,4 @@ Each project is self-contained in its own folder with a Jupyter Notebook, Relate
 - Showcase **Classification, Regression, and advanced ML techniques**    
 
 ---
+# Thank You
