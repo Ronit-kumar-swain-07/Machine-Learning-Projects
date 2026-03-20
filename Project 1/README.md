@@ -55,7 +55,7 @@ The goal of this project is to build a system that can accurately predict whethe
 
 ## 📊 Model Performance
 
-- Training Accuracy: 
-- Testing Accuracy: 
+- Training Accuracy: ~ 83.42245989304813 %
+- Testing Accuracy: ~ 76.19047619047619 %
 
 ---

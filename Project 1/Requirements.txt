@@ -1,6 +1,9 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-jupyter
+1. numpy
+2. pandas
+3. scikit-learn
+4. Logistic Regression
+5. train_test_split from sklearn.model_selection
+6. Logistic Regression from sklearn.linear_model
+7. accuracy_score from sklearn.metrics
+8. Sonar Data CSV File
+9. python notebook
