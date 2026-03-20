@@ -55,12 +55,9 @@ The goal of this project is to build a system that can accurately predict whethe
 
 ## 📊 Model Performance
 
-- Training Accuracy: ~XX%
-- Testing Accuracy: ~XX%
+- Training Accuracy: 
+- Testing Accuracy: 
 
 *(Update these values after running your model)*
 
 ---
-
-## 📁 Project Structure
-ommit
