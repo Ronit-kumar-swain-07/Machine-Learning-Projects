@@ -58,6 +58,4 @@ The goal of this project is to build a system that can accurately predict whethe
 - Training Accuracy: 
 - Testing Accuracy: 
 
-*(Update these values after running your model)*
-
 ---
