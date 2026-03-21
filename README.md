@@ -12,7 +12,9 @@ Each project is self-contained in its own folder with a Jupyter Notebook, Relate
 | Project | Description | Status | Notebook |
 |---------|-------------|--------|----------|
 | 🛳️ **Project 1: SONAR Rock vs Mine Prediction** | Predict whether an underwater object is a **Rock** or a **Mine** using sonar signals and Logistic Regression. | ✅ Completed | [Notebook](.ipynb) |
-| 🩺 **Project 2: Diabetes Prediction with Machine Learning** | Predict whether a patient has **Diabetes** or Not using **Support Vector Machine(SVM)** | ⏳ In Progress | [Notebook](.ipynb) |
+| 🩺 **Project 2: Diabetes Prediction with Machine Learning** | Predict whether a patient has **Diabetes** or Not using **Support Vector Machine(SVM)** | ✅ Completed | [Notebook](.ipynb) |
+| 🏠 **Project 3: House Price Prediction using Machine Learning** | Predicts house prices based on various features using **XGBoost Regression**.
+ | ⏳ In Progress | [Notebook](.ipynb) |
 
 > *More projects will be added as I continue building my ML portfolio.*
 
