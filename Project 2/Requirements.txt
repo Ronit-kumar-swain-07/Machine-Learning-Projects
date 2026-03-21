@@ -1,0 +1,7 @@
+1. numpy
+2. pandas
+3. sklearn
+4. StandardScaler
+5. train_test_split
+6. Support Vector Machine(svm)
+7. accuracy_score
