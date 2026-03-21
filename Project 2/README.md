@@ -71,7 +71,7 @@ Jupyter Notebook
 --- 
 
 # 📊 Model Performance
-Training Accuracy: ~  %
-Testing Accuracy: ~  %
+Training Accuracy: ~ 78.4370477568741 %
+Testing Accuracy: ~ 77.92207792207793 %
 
 ---
